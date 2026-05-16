@@ -16,3 +16,14 @@ java GestionPedidos
 
 ## 🎥 Video de Sustentación
 [Ver video](https://drive.google.com/file/d/1j-tJ9HTb892v-mBbQ7MjjeEC1PIRt4Kh/view?usp=sharing)
+
+## 👥 Autores
+- María Fernanda Álvarez
+
+## 📸 Capturas de Ejecución
+
+### Deshacer (Undo)
+![Undo](undo.png)
+
+### Rehacer (Redo)
+![Redo](redo.png)
