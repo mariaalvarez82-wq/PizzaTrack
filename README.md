@@ -23,7 +23,8 @@ java GestionPedidos
 ## 📸 Capturas de Ejecución
 
 ### Deshacer (Undo)
-![Undo](undo.png)
+![Undo](undo.png.jpg)
+
 
 ### Rehacer (Redo)
-![Redo](redo.png)
+![Redo](redo.png.jpg)
